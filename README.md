@@ -16,7 +16,8 @@ Create a virtual environment and install the required packages:
 ```bash
 conda create -n ctdiffnet python=3.9
 conda activate ctdiffnet
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ## 🚀 Quick Start
 
