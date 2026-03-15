@@ -22,17 +22,13 @@ pip install -r requirements.txt
 ## 🚀 Quick Start
 
 1. Train and Evaluate CT-DiffNet:
-
-Bash
-
+```bash
 python models/CT-diffNet*.py
-
+```
 2. Run XGBoost Baseline:
-   
-Bash
-
+```bash
 python models/XGB*.py
-
+```
 ## 📜 Citation
 
 If you use this code, please cite our paper:
