@@ -13,12 +13,12 @@ Create a virtual environment and install the required packages:
 conda create -n ctdiffnet python=3.9
 conda activate ctdiffnet
 pip install -r requirements.txt
-##🚀 Quick Start
+## 🚀 Quick Start
 1. Train and Evaluate CT-DiffNet:
 python models/CT-diffNet*.py
 2. Run XGBoost Baseline:
 python models/XGB*.py
-##📜 Citation
+## 📜 Citation
 
 If you use this code, please cite our paper:
 in submission
